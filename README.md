@@ -32,10 +32,8 @@ Este script en Python es un juego interactivo llamado "Suerte Terminal". En este
 1. **Ejecuta el script:**
 
     ```bash
-    python nombre_del_script.py
+    python ruleta.py
     ```
-
-    Asegúrate de reemplazar `nombre_del_script.py` con el nombre real del archivo Python.
 
 2. **Selecciona una opción del menú:**
 
